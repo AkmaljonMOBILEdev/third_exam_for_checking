@@ -1,0 +1,1 @@
+const String baseUrlOfCategories="imtixon.free.mockoapp.net/categories";
